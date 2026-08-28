@@ -131,4 +131,4 @@ Proyek ini dibuat untuk keperluan edukasi dan latihan mata kuliah **Manajemen Ba
 ## 👨‍💻 Developer
 
 **Farum Syah Putra**  
-Sistem Informasi Toko Adi Motor — Latihan MBSD
+Sistem Informasi Toko Adi Motor 
