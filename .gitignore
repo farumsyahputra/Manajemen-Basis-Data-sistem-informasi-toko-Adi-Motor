@@ -1,0 +1,95 @@
+# ===========================
+# PHP
+# ===========================
+vendor/
+composer.lock
+
+# ===========================
+# Environment & Config Sensitif
+# ===========================
+.env
+.env.local
+.env.*.local
+config/database.php
+
+# ===========================
+# Log & Cache
+# ===========================
+*.log
+logs/
+log/
+cache/
+tmp/
+temp/
+
+# ===========================
+# OS Files
+# ===========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===========================
+# IDE & Editor
+# ===========================
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains (PhpStorm, WebStorm, dll)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+nbactions.xml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# ===========================
+# Upload / File Sementara
+# ===========================
+uploads/
+upload/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ===========================
+# Node (jika ada tooling frontend)
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
